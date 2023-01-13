@@ -8,9 +8,6 @@ if (first_number < second_number)
 {
     max = second_number ;
 }
-Console.Write("a=");
-Console.Write($"{first_number};");
-Console.Write(" b=");
-Console.Write($"{second_number};");
-Console.Write(" -> max=");
-Console.Write($"{max};");
+Console.Write($"a={first_number};");
+Console.Write($" b={second_number};");
+Console.Write($" -> max={max};");
