@@ -1,11 +1,11 @@
-﻿Console.WriteLine("Введите число: ");
+﻿Console.Write("Введите число: ");
 int number = int.Parse(Console.ReadLine()!);
 
 if (number%2 == 0)
 {
-    Console.WriteLine($"{number}->да");
+    Console.WriteLine($"{number} -> четное");
 }
 else
 {
-    Console.WriteLine($"{number}->нет");
+    Console.WriteLine($"{number} -> нечетное");
 }
