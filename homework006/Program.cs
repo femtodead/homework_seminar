@@ -6,7 +6,7 @@
 // 32679 -> 6
 
 Console.Clear();
-int num = new Random().Next(0, 2147483647);
+int num = new Random().Next(-2147483647, 2147483647);
 Console.WriteLine($"Число = {num} ");
 
 if ( num/100 != 0)
