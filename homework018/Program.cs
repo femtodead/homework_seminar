@@ -15,7 +15,7 @@ int[] GetRandomArray (int size, int minValue, int maxValue)
     return array;
 }
 
-void SumElOddPositions (int[] array)
+int[] SumElOddPositions (int[] array)
 {   
     int num = 0;
     for (int i = 0; i < array.Length-i; i++)
@@ -30,7 +30,7 @@ void SumElOddPositions (int[] array)
             }
         }
     }
-    Console.WriteLine($"После сортиовки: [{string.Join(" ", array)}]");
+    return array;
 }
 
 void main()

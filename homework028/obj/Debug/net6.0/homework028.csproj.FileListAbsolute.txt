@@ -1,0 +1,15 @@
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\obj\Debug\net6.0\homework028.csproj.AssemblyReference.cache
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\obj\Debug\net6.0\homework028.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\obj\Debug\net6.0\homework028.AssemblyInfoInputs.cache
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\obj\Debug\net6.0\homework028.AssemblyInfo.cs
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\obj\Debug\net6.0\homework028.csproj.CoreCompileInputs.cache
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\bin\Debug\net6.0\homework028.exe
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\bin\Debug\net6.0\homework028.deps.json
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\bin\Debug\net6.0\homework028.runtimeconfig.json
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\bin\Debug\net6.0\homework028.dll
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\bin\Debug\net6.0\homework028.pdb
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\obj\Debug\net6.0\homework028.dll
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\obj\Debug\net6.0\refint\homework028.dll
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\obj\Debug\net6.0\homework028.pdb
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\obj\Debug\net6.0\homework028.genruntimeconfig.cache
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework028\obj\Debug\net6.0\ref\homework028.dll
