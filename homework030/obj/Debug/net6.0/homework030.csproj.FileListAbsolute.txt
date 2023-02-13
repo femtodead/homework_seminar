@@ -1,0 +1,15 @@
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\obj\Debug\net6.0\homework030.csproj.AssemblyReference.cache
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\obj\Debug\net6.0\homework030.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\obj\Debug\net6.0\homework030.AssemblyInfoInputs.cache
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\obj\Debug\net6.0\homework030.AssemblyInfo.cs
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\obj\Debug\net6.0\homework030.csproj.CoreCompileInputs.cache
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\bin\Debug\net6.0\homework030.exe
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\bin\Debug\net6.0\homework030.deps.json
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\bin\Debug\net6.0\homework030.runtimeconfig.json
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\bin\Debug\net6.0\homework030.dll
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\bin\Debug\net6.0\homework030.pdb
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\obj\Debug\net6.0\homework030.dll
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\obj\Debug\net6.0\refint\homework030.dll
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\obj\Debug\net6.0\homework030.pdb
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\obj\Debug\net6.0\homework030.genruntimeconfig.cache
+C:\Users\Sosok\Desktop\Introductory programming assignment\homework030\obj\Debug\net6.0\ref\homework030.dll
